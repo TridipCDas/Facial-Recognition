@@ -28,5 +28,5 @@ Build a face recognition system comprising the following steps:
 
 ![Screenshot (350)](https://user-images.githubusercontent.com/40006730/89109408-7e590900-d45e-11ea-80dc-3cb803843673.png)
 
-
+#### REFERENCES: https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
  
